@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#2196F3</color> <!-- Material Design Blue -->
+    <color name="green">#4CAF50</color> <!-- Material Design Green -->
+    <color name="red">#F44336</color> <!-- Material Design Red -->
+    <color name="orange">#FF9800</color> <!-- Material Design Orange -->
+    <color name="purple">#9C27B0</color> <!-- Material Design Purple -->
+    <color name="teal">#009688</color> <!-- Material Design Teal -->
+    <color name="pink">#E91E63</color> <!-- Material Design Pink -->
+    <color name="deep_purple">#673AB7</color> <!-- Material Design Deep Purple -->
+    <color name="indigo">#3F51B5</color> <!-- Material Design Indigo -->
+    <color name="light_blue">#03A9F4</color> <!-- Material Design Light Blue -->
+    <color name="cyan">#00BCD4</color> <!-- Material Design Cyan -->
+    <color name="amber">#FFC107</color> <!-- Material Design Amber -->
+    <color name="deep_orange">#FF5722</color> <!-- Material Design Deep Orange -->
+    <color name="lime">#CDDC39</color> <!-- Material Design Lime -->
+    <color name="brown">#795548</color> <!-- Material Design Brown -->
+    <color name="grey">#9E9E9E</color> <!-- Material Design Grey -->
+</resources>
